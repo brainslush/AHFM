@@ -1,0 +1,21 @@
+A - Assigned
+U - Unassigned
+D - Done
+R - Needs review
+
+F- fred, B- brainslush
+
+example: A:F = assigned to fred
+=================================================================================
+ToDo:
+=================================================================================
+
+
+A:B - wind needs to be synchronized between clients
+A:B - implement gusts 
+A:B - wind works on helicopters
+A:B - wind depends on the sorrounding terrain
+U - induced rotation when raising and lowering the collective
+A:F - ground effects
+A:F - vortex ring state or settling with power
+U - retreating blade stall
